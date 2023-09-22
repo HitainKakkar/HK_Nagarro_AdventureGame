@@ -14,6 +14,7 @@ Buckle up, brave traveler, for a delicious and daring adventure awaits! Best of 
 
 - [How to Play](#how-to-play)
 - [Twist](#twist)
+- [Hint](#hint)
 - [Installation](#installation)
 - [Rewards](#rewards)
 
@@ -28,6 +29,10 @@ Your task is to visit Manas and Manmohan's friends and deliver gifts to them.
 - `Drop gifts : put {company_code}` - (to add code to the list of delivered sweets and mark as delivered.) e.g., 'put amazon'
 
 **TWIST:** In case the vigilant security expert at the door finds you intriguing, you need to solve a small challenge to prove you're the legendary hero!!
+
+## Hint
+
+Use the AdventureMap to navigate through the maze.
 
 ## Installation 🛠️
 
