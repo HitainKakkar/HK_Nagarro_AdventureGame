@@ -16,6 +16,7 @@ Table of Contents
 - How to Play
 - Twist
 - Installation
+- Rewards
 
 # WARNING - 
 
