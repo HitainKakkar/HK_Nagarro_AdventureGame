@@ -35,6 +35,11 @@ Drop gifts : put {company_code} (to add code to the list of delivered sweets and
 
 Incasevigilant security expert at the door finds you intriguing, you need to solve a small challenge to prove you're the legendary hero!!
 
-#installation
+# INSTALLATION
 
 Just download the whole and compile the main.py
+
+# REWARDS
+
+Once you've completed your mission and returned to the legendary Nagarro's Headquarters,
+an incredible surprise awaits you, courtesy of Manas and Manmohan themselves.
