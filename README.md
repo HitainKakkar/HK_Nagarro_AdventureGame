@@ -39,8 +39,8 @@ Once you've completed your mission and returned to the legendary Nagarro's Headq
 
 Have fun and enjoy your sweet adventure! 🍬🏆
 
-[Play Now]([link-to-play-the-game](https://github.com/HitainKakkar/HK_Nagarro_AdventureGame))
+[Play Now]((https://github.com/HitainKakkar/HK_Nagarro_AdventureGame))
 
 ---
 
-*This game is created by [Your Name]. Feel free to contribute and improve it!* 😃
+*This game is created by [Hitain Kakkar]. Feel free to contribute and improve it!* 😃
