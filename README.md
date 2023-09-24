@@ -9,7 +9,7 @@ Your quest is to embark on a tantalizing journey, delivering these mouthwatering
 Buckle up, brave traveler, for a delicious and daring adventure awaits! Best of luck on your sweet expedition! 🚀
 
 **WARNING:** Don't go to Headquarters without completing the task! 🚫
-
+ 
 **TWIST:** In case the vigilant security expert at the door finds you intriguing, you need to solve a small challenge to prove you're the legendary hero!!
 
 ## How to Play 🎮
