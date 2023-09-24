@@ -10,15 +10,7 @@ Buckle up, brave traveler, for a delicious and daring adventure awaits! Best of 
 
 **WARNING:** Don't go to Headquarters without completing the task! 🚫
 
-## Table of Contents
-
-- [How to Play](#how-to-play)
-- [Twist](#twist)
-- [Hint](#hint)
-- [Installation](#installation)
-- [Rewards](#rewards)
-
-**WARNING:** Don't go to Headquarters without completing the task! 🚫
+**TWIST:** In case the vigilant security expert at the door finds you intriguing, you need to solve a small challenge to prove you're the legendary hero!!
 
 ## How to Play 🎮
 
