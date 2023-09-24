@@ -1,4 +1,4 @@
-
+import time
 import random
 
 # Function to print the Tic-Tac-Toe board
@@ -68,6 +68,7 @@ def play_tic_tac_toe():
         if is_game_over(board):
             print_board(board)
             print("Congratulations! You win!")
+            time.sleep(1)
             return 0  # User wins
 
         # Computer's move
@@ -76,12 +77,14 @@ def play_tic_tac_toe():
         if is_game_over(board):
             print_board(board)
             print("Computer wins. Better luck next time!")
+            time.sleep(1)
             return 1  # User loses
 
         # Check for a tie
         if all(cell != " " for row in board for cell in row):
             print_board(board)
-            print("It's a tie!")
+            print("It's a tie!, but I declare you win")
+            time.sleep(1)
             return 1  # It's a tie
 
 # Call the function to play the game
