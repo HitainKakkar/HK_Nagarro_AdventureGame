@@ -31,6 +31,7 @@ You are in the Jeffery Preston Bezoz
 Delivered list : ['Amazon']
 ---------------------------
 Delivered to Amazon!
+Security experts have confirmed your legendary status, Hitain Kakkar. They warmly welcome you to the Amazon office with open arms.
 Enter your move:
 go south
 
@@ -97,6 +98,7 @@ You are in the Nithin Kamath & Nikhil Kamath
 Delivered list : ['Amazon', 'Zerodha']
 ---------------------------
 Delivered to Zerodha!
+Security experts have confirmed your legendary status, Hitain Kakkar. They warmly welcome you to the Zerodha office with open arms.
 Enter your move:
 go north
 
@@ -119,6 +121,7 @@ You are in the Ratan Naval Tata
 Delivered list : ['Amazon', 'Zerodha', 'Tata']
 ---------------------------
 Delivered to Tata!
+Security experts have confirmed your legendary status, Hitain Kakkar. They warmly welcome you to the Tata office with open arms.
 Enter your move:
 go north
 
@@ -134,6 +137,7 @@ You are in the Satya Narayana Nadella
 Delivered list : ['Amazon', 'Zerodha', 'Tata', 'Microsoft']
 ---------------------------
 Delivered to Microsoft!
+Security experts have confirmed your legendary status, Hitain Kakkar. They warmly welcome you to the Microsoft office with open arms.
 Enter your move:
 go east
 
@@ -170,6 +174,7 @@ You are in the Elon Reeve Musk
 Delivered list : ['Amazon', 'Zerodha', 'Tata', 'Microsoft', 'Spacex']
 ---------------------------
 Delivered to Spacex!
+Security experts have confirmed your legendary status, Hitain Kakkar. They warmly welcome you to the Spacex office with open arms.
 Enter your move:
 go west
 
@@ -213,6 +218,7 @@ You are in the Timothy Donald Cook
 Delivered list : ['Amazon', 'Zerodha', 'Tata', 'Microsoft', 'Spacex', 'Apple']
 ---------------------------
 Delivered to Apple!
+Security experts have confirmed your legendary status, Hitain Kakkar. They warmly welcome you to the Apple office with open arms.
 Enter your move:
 go west
 
