@@ -1,4 +1,5 @@
 import random
+import time
 
 def guess_the_number():
     number = random.randint(1, 100)
@@ -12,7 +13,7 @@ def guess_the_number():
             print("Guess lower!")
         else:
             print("You won!")
+            time.sleep(1)
             return 0  # User wins
     
     return 1  # User loses
-
