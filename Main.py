@@ -162,6 +162,8 @@ while True:
                     security_check = random.randint(0, 1)
                     if(security_check == 0):
                         inventory.append(rooms[current_room]["Item"])
+                        print("Security experts have confirmed your legendary status, " + formatted_username + ". They warmly welcome you to the " + rooms[current_room]["Item"] + " office with open arms.")
+                        time.sleep(2)
                         msg = f"Delivered to {item}!"
                     else:
                         while(security_check):
@@ -169,9 +171,13 @@ while True:
                             game_choice = random.randint(0, 1)
                             if(game_choice):
                                 security_check = TicTacToeGame.play_tic_tac_toe()
+                                time.sleep(1)
                             else:
                                 security_check = GuessTheNumberGame.guess_the_number()
+                                time.sleep(1)
                             if(security_check == 0):
+                                print("Security experts have confirmed your legendary status, " + formatted_username + ". They warmly welcome you to the " + rooms[current_room]["Item"] + " office with open arms.")
+                                time.sleep(2)
                                 inventory.append(rooms[current_room]["Item"])
                                 msg = f"Delivered to {item}!"
                 else:
