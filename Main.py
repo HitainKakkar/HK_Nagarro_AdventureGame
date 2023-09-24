@@ -115,7 +115,8 @@ while True:
             "Dr. Manmohan Gupta - Duniya ke kissi project ki requirement itnee pakki nahi ki Nagarro usse pura na kar sake \n",
             "Dr. Manas Human - Mogambo Khush Hua\n",
             "Dr. Manmohan Gupta - Tumhe aisa tofa milega, jisse Tumhara toh dil garden-garden ho jaega.\n",
-            "Dr. Manas Human - Haan, Bilkul Yelo tijori ki chabhi aur lelo apna tofa\nCODE hai - Diwali@Nagarro2023\n"]
+            "Dr. Manas Human - Haan, Bilkul Yelo tijori ki chabhi aur lelo apna tofa\nCODE hai - Diwali@Nagarro2023\n",
+            "YOU CAN NOW OPEN YOUR DIWALI GIFT (SurpriseGift.pdf) USING THIS CODE \n"]
             for line in lines:
                 print(line)
                 time.sleep(2)
