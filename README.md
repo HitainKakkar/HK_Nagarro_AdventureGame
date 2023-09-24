@@ -1,7 +1,7 @@
 # HK_Nagarro_AdventureGame
 
 Hey there, Adventurer! 🍭🌍
-
+ 
 In a world filled with sweetness and wonder, Manas and Manmohan have an extraordinary mission for you. They have decided to send delectable treats to friends scattered across the globe and have handpicked their most valiant and trusted envoy - none other than you, the legendary hero!
 
 Your quest is to embark on a tantalizing journey, delivering these mouthwatering delights to every corner of the world. But that's not all! Once you've completed your mission and returned to the legendary Nagarro's Headquarters, an incredible surprise awaits you, courtesy of Manas and Manmohan themselves.
