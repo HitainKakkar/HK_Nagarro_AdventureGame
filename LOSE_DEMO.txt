@@ -1,0 +1,51 @@
+Please Enter your name: Hitain Kakkar
+
+Hey there, Adventurer!
+
+A critical task has emerged, and only one person can code it - the Legendary Coder - Hitain Kakkar!
+
+Your mission is to collect scattered pieces of code from different websites and bring them to the Compiler,
+known as CortexShredder.
+
+WARNING - Never approach the Compiler without collecting all the required code items.
+CortexShredder is infamous for mercilessly shredding unprepared coders!
+
+Controls:
+'go {direction}' (travel north, south, east, or west)
+'put {code_item}' (to add code fragments to your collection.)
+
+Press any key to continue...
+
+You are in the Start Point
+Collected list : []
+---------------------------
+
+Enter your move:
+go east
+
+
+You are in the GITHUB
+Collected list : []
+---------------------------
+You travel East
+You see Debugging Diamonds
+Enter your move:
+go east
+
+CortexShredder  - do you know how would a tree without look like!?
+
+Hitain Kakkar   - No
+
+CortexShredder  - do you know how would a mobile without incoming and outgoing services be like!?
+
+Hitain Kakkar   - No
+
+CortexShredder  - do you know how would a server without network like!?
+
+Hitain Kakkar   - No
+
+CortexShredder  - It will be lame, useless and full of errors just like your code!!
+
+DESTROYED
+
+GAME OVER

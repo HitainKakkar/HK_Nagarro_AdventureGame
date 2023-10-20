@@ -1,0 +1,268 @@
+Please Enter your name: Hitain Kakkar
+
+Hey there, Adventurer!
+
+A critical task has emerged, and only one person can code it - the Legendary Coder - Hitain Kakkar!
+
+Your mission is to collect scattered pieces of code from different websites and bring them to the Compiler,
+known as CortexShredder.
+
+WARNING - Never approach the Compiler without collecting all the required code items.
+CortexShredder is infamous for mercilessly shredding unprepared coders!
+
+Controls:
+'go {direction}' (travel north, south, east, or west)
+'put {code_item}' (to add code fragments to your collection.)
+
+Press any key to continue...
+
+You are in the Start Point
+Collected list : []
+---------------------------
+
+Enter your move:
+Go north
+
+
+You are in the STACK OVERFLOW
+Collected list : []
+---------------------------
+You travel North
+You see Syntax Stars
+Enter your move:
+Get Syntax Stars
+
+You've successfully proven your humanity!
+The digital guardians of the website welcome you to collect the Syntax Stars. Your journey continues
+
+You are in the STACK OVERFLOW
+Collected list : ['Syntax Stars']
+---------------------------
+Added Syntax Stars to List!
+Enter your move:
+go south
+
+You are in the Start Point
+Collected list : ['Syntax Stars']
+---------------------------
+You travel South
+Enter your move:
+go south
+
+You are in the DEVDOCS
+Collected list : ['Syntax Stars']
+---------------------------
+You travel South
+You see Looping Lollipops
+Enter your move:
+get Looping Lollipops
+
+The digital guardians of the website raise their virtual eyebrows, finding you suspicious!
+To prove you're still a HUMAN prepare for a challenge!
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+---------
+Enter the row (0, 1, or 2):0
+Enter the column (0, 1, or 2):0
+X |   |
+---------
+  |   |
+---------
+O |   |
+---------
+Enter the row (0, 1, or 2): 1
+Enter the column (0, 1, or 2): 1
+X |   |
+---------
+  | X | O
+---------
+O |   |
+---------
+Enter the row (0, 1, or 2): 2
+Enter the column (0, 1, or 2): 2
+X |   |
+---------
+  | X | O
+---------
+O |   |X
+---------
+Congratulations! You win!
+You've successfully proven your humanity!
+The digital guardians of the website welcome you to collect the Looping Lollipops. Your journey continues
+
+
+You are in the DEVDOCS
+Collected list : ['Syntax Stars', 'Looping Lollipops']
+---------------------------
+Added Looping Lollipops to List!
+Enter your move:
+go east
+
+You are in the GFG
+Collected list : ['Syntax Stars', 'Looping Lollipops']
+---------------------------
+You travel East
+You see Function Feathers
+Enter your move:
+get Function Feathers
+
+You are in the GFG
+Collected list : ['Syntax Stars', 'Looping Lollipops']
+---------------------------
+You travel East
+You see Function Feathers
+Enter your move:
+get Function Feathers
+The digital guardians of the website raise their virtual eyebrows, finding you suspicious!
+To prove you're still a HUMAN prepare for a challenge!
+You need to Guess the number!
+
+Enter Guess a number : 50
+Guess higher!
+Enter Guess a number : 75
+Guess lower!
+Enter Guess a number : 60
+Guess higher!
+Enter Guess a number : 70
+Guess lower!
+Enter Guess a number : 65
+Guess lower!
+Enter Guess a number : 61
+Congratulations! You win!
+You've successfully proven your humanity!
+The digital guardians of the website welcome you to collect the Looping Lollipops. Your journey continues
+
+You are in the GFG
+Collected list : ['Syntax Stars', 'Looping Lollipops', 'Function Feathers']
+---------------------------
+Enter your move:
+go west
+
+You are in the DEVDOCS
+Collected list : ['Syntax Stars', 'Looping Lollipops', 'Function Feathers']
+---------------------------
+You travel West
+Enter your move:
+go north
+
+You are in the Start Point
+Collected list : ['Syntax Stars', 'Looping Lollipops', 'Function Feathers']
+---------------------------
+You travel North
+Enter your move:
+go east
+
+You are in the GITHUB
+Collected list : ['Syntax Stars', 'Looping Lollipops', 'Function Feathers']
+---------------------------
+You travel East
+You see Debugging Diamonds
+Enter your move:
+get Debugging Diamonds
+You've successfully proven your humanity!
+The digital guardians of the website welcome you to collect the Debugging Diamonds. Your journey continues
+
+You are in the GITHUB
+Collected list : ['Syntax Stars', 'Looping Lollipops', 'Function Feathers', 'Debugging Diamonds']
+---------------------------
+Added Debugging Diamonds to List!
+Enter your move:
+go north
+
+You are in the QUORA
+Collected list : ['Syntax Stars', 'Looping Lollipops', 'Function Feathers', 'Debugging Diamonds']
+---------------------------
+You travel North
+You see Variable Vortex Crystals
+Enter your move:
+get Variable Vortex Crystals
+
+You are in the QUORA
+Collected list : ['Syntax Stars', 'Looping Lollipops', 'Function Feathers', 'Debugging Diamonds']
+---------------------------
+You travel North
+You see Variable Vortex Crystals
+Enter your move:
+get Variable Vortex Crystals
+The digital guardians of the website raise their virtual eyebrows, finding you suspicious!
+To prove you're still a HUMAN prepare for a challenge!
+You need to Guess the number!
+
+Enter Guess a number : 50
+Guess lower!
+Enter Guess a number : 25
+Guess lower!
+Enter Guess a number : 15
+Guess higher!
+Enter Guess a number : 20
+Congratulations! You win!
+You've successfully proven your humanity!
+The digital guardians of the website welcome you to collect the Variable Vortex Crystals. Your journey continues
+
+
+You are in the QUORA
+Collected list : ['Syntax Stars', 'Looping Lollipops', 'Function Feathers', 'Debugging Diamonds', 'Variable Vortex Crystals']
+---------------------------
+You travel West
+Enter your move:
+go east
+
+You are in the CODE REVIEW
+Collected list : ['Syntax Stars', 'Looping Lollipops', 'Function Feathers', 'Debugging Diamonds', 'Variable Vortex Crystals']
+---------------------------
+You travel East
+You see Conditional Cookies
+Enter your move:
+get Conditional Cookies
+
+You've successfully proven your humanity!
+The digital guardians of the website welcome you to collect the Conditional Cookies. Your journey continues
+
+You are in the CODE REVIEW
+Collected list : ['Syntax Stars', 'Looping Lollipops', 'Function Feathers', 'Debugging Diamonds', 'Variable Vortex Crystals', 'Conditional Cookies']
+---------------------------
+Added Conditional Cookies to List!
+Enter your move:
+go west 
+
+You are in the QUORA
+Collected list : ['Syntax Stars', 'Looping Lollipops', 'Function Feathers', 'Debugging Diamonds', 'Variable Vortex Crystals', 'Conditional Cookies']
+---------------------------
+You travel West
+Enter your move:
+go south
+
+You are in the GITHUB
+Collected list : ['Syntax Stars', 'Looping Lollipops', 'Function Feathers', 'Debugging Diamonds', 'Variable Vortex Crystals', 'Conditional Cookies']
+---------------------------
+You travel South
+Enter your move:
+go east
+
+
+CortexShredder  - do you know how would a plant full of flower look like!?
+
+Hitain Kakkar	- No
+
+CortexShredder  - do you know how would a Programmer who aced all the validation tests feel like!?
+
+Hitain Kakkar	- No
+
+CortexShredder  - do you know how website with no lag or downtime feels like!?
+
+Hitain Kakkar	- No
+
+CortexShredder  - It feels Beautiful, Successful and Flawless just your code!!
+
+CortexShredder  - I have a gift for you!! CODE - Diwali@Nagarro2023
+
+YOU CAN NOW OPEN YOUR DIWALI GIFT (SurpriseGift.pdf) USING THIS CODE 
+
+MISSION COMPLETE
+
+YOU WIN
+
+
